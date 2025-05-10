@@ -1,0 +1,56 @@
+/* ---------------
+* Site : Yula Invest Company
+* By Jimmy Nkombe
+-----------------*/
+/* Css Start */
+
+
+
+
+/* --------------
+
+* START INDEX PAGE 
+
+----------------*/
+@font-face {
+    font-family: montserrat ;
+    src: url(C:\wamp64\www\Site internet\Polices Texte\montserrat);
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('polices/montserrat.woff2') format('woff2');
+  }
+  
+/* Start Why Chose Section */
+.why-choose .choose-left {
+    padding: 30px; 
+}
+.why-choose .choose-left h3 {
+    font-family: "";
+    font-size: 40px;
+}
+
+.why-choose .choose-left p span {
+    font-weight: bold;
+    font-family: "";
+    font-size: 20px;
+}
+.appointment .section-title p {
+    font-size: 15px;
+    color: rgb(107, 107, 107);
+}
+.about_section .heading_container h2 {
+    color: white;
+}
+.about_section {
+    background-color: #1A76D1 ;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.about_section .detail-box p span{
+    font-weight: bold;
+}
+/* --------------
+
+* END INDEX PAGE 
+
+----------------*/
